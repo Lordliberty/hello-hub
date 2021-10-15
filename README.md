@@ -3,7 +3,8 @@
 A short repository about me
 
 Hi there👋,
-I'm Lordliberty, I'm interested in HTML,
+I'm Lordliberty.
+I'm interested in HTML,
 CSS, JavaScript and other technologies associated
 with web development.
 
